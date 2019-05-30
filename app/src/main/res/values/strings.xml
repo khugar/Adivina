@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="txtFrom">FROM</string>
+    <string name="txtTo">TO</string>
+    <string name="txtAjuda">Escribe el intervalo para generar el numero aleatorio</string>
+    <string name="btnStopDescription">Borra los numeros de edTxtFrom i edTxtTo</string>
+    <string name="btnPlayDescription">Pasa los numeros a l\'altre activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btnComprova">Comprueba</string>
+    <string name="txtAjuda2">Adivina el numero que se ha generado:</string>
+    <string name="edTxtAdiv">Numero a adivinar</string>
+    <string name="btnBorrarDesc">Botón de Borrar</string>
+    <string name="activity2_name">Adivina</string>
+</resources>
